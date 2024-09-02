@@ -1,0 +1,2 @@
+# barcode
+thinkphp8barocde
